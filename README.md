@@ -11,5 +11,3 @@ Both of the data sets above are based in some way on data prepared by [Robin Wil
 ## code
 
 [Arribas-Bel_etal_2017.ipynb](/code/python/Arribas-Bel_etal_2017.ipynb) re-implements code from [Arribas-Bel _et al._ (2017)](http://doi.org/10.1007/978-3-319-50590-9_17) for more recent versions of packages
-
-test
