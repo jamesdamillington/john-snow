@@ -1,5 +1,5 @@
 # john-snow
-Spatial analysis playground using data related to data for the [1854 cholera outbreak in Soho](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak).
+Spatial analysis playground using data related to the [1854 cholera outbreak in Soho](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak).
 
 ## data
 Data are from several sources:
@@ -18,4 +18,4 @@ Both of the data sets above are based in some way on data prepared by [Robin Wil
 
 ### References
 
-Johson, S. (2006) _The Ghost Map_ London: Penguin [link](https://en.wikipedia.org/wiki/The_Ghost_Map)
+Johson, S. (2006) [_The Ghost Map_](https://en.wikipedia.org/wiki/The_Ghost_Map) London: Penguin
