@@ -13,8 +13,15 @@ The data sets above are based in some way on data prepared by [Robin Wilson](htt
 
 ## code
 
-- [Relations.ipynb](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Relations.ipynb) is a python notebook using the [shapely package](https://pypi.org/project/Shapely/) exploring some examples of spatial relations, specifically: distances (between points); within and contains (points and polygons); overlaps (of polygons); buffers (around points; technically an operation, but it makes sense to consider them here)
-- [Operations.ipynb](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Operations.ipynb) is a python notebook using the [shapely package](https://pypi.org/project/Shapely/) exploring some examples of spatial operations, specifically: differences (between polygons); intersections (of polygons); unions (of polygons)
+- [Relations.ipynb](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Relations.ipynb) is a python notebook using the [shapely package](https://pypi.org/project/Shapely/) exploring some examples of spatial relations, specifically: 
+  - distances (between points); 
+  - within and contains (points and polygons); 
+  - overlaps (of polygons); 
+  - buffers (around points; technically an operation, but it makes sense to consider them here)
+- [Operations.ipynb](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Operations.ipynb) is a python notebook using the [shapely package](https://pypi.org/project/Shapely/) exploring some examples of spatial operations, specifically: 
+  - differences (between polygons); 
+  - intersections (of polygons); 
+  - unions (of polygons)
 - [Voronoi.ipynb](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Voronoi.ipynb) is a python notebook providing overview of Voronoi Diagrams (Thiessen Polygons) using the [pysal package](https://pysal.org/libpysal)
 - [Arribas-Bel_etal_2017.ipynb](/code/python/Arribas-Bel_etal_2017.ipynb) re-implements python code from [Arribas-Bel _et al._ (2017)](http://doi.org/10.1007/978-3-319-50590-9_17) for more recent versions of packages
 
