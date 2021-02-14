@@ -7,7 +7,7 @@ Data are from several sources:
   - `snow7/pumps.shp` (vector) is points for each location of a pump
 - `data/dani` contains data prepared by [Dani Arribas-Bel](https://bitbucket.org/darribas/reproducible_john_snow/src/master/):
   - `polys.shp` (vector) is building blocks (footprints) from the Ordnance Survey (OS data © Crown copyright and database right, 2015)
-  - `Cholera_Deaths.shp` (vector) is points for each location of one or more deaths (attribute value gives number of deaths at that location)
+  - `Cholera_Deaths.shp` (vector) is points for each location of at least one death (attribute value gives death count by location)
 
 The data sets above are based in some way on data prepared by [Robin Wilson](http://blog.rtwilson.com/john-snows-cholera-data-in-more-formats/) and other sources.
 
