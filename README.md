@@ -23,6 +23,7 @@ The data sets above are based in some way on data prepared by [Robin Wilson](htt
   - intersections (of polygons);
   - unions (of polygons)
 - [Voronoi.ipynb](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Voronoi.ipynb) is a python notebook providing overview of Voronoi Diagrams (Thiessen Polygons) using the [pysal package](https://pysal.org/libpysal)
+- [SpatialJoins.ipynb](https://github.com/jamesdamillington/john-snow/blob/main/code/python/SpatialJoins.ipynb) is a python notebook that uses spatial joins to analyse data with geometries created in the [Spatial Relations](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Relations.ipynb), [Spatial Operations](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Operations.ipynb) and [Voronoi](https://github.com/jamesdamillington/john-snow/blob/main/code/python/Voronoi.ipynb) notebooks
 - [Arribas-Bel_etal_2017.ipynb](/code/python/Arribas-Bel_etal_2017.ipynb) re-implements python code from [Arribas-Bel _et al._ (2017)](http://doi.org/10.1007/978-3-319-50590-9_17) for more recent versions of packages
 
 
