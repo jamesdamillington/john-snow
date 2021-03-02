@@ -29,4 +29,4 @@ The data sets above are based in some way on data prepared by [Robin Wilson](htt
 
 ### References
 
-Johson, S. (2006) [_The Ghost Map_](https://en.wikipedia.org/wiki/The_Ghost_Map) London: Penguin
+Johnson, S. (2006) [_The Ghost Map_](https://en.wikipedia.org/wiki/The_Ghost_Map) London: Penguin
