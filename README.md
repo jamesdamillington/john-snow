@@ -34,9 +34,9 @@ RMarkdown files equivalent to python notebooks will be forthcoming
 
 ## pdf
 
-- [OSullivanUnwin2003_Section7_4.pdf](https://github.com/jamesdamillington/john-snow/blob/main/pdf/OSullivanUnwin2003_Section7_4.pdf) is an excerpt (section 7.4) from O'Sullivan and Unwin (2003), relevant to the notebook on Join Counts 
+- [OSullivanUnwin2003_Section7_4.pdf](https://github.com/jamesdamillington/john-snow/blob/main/pdf/OSullivanUnwin2003_Section7_4.pdf) is an excerpt (section 7.4) from O'Sullivan and Unwin (2003), relevant to the notebook on Join Counts
 
 ### References
 
-Johnson, S. (2006) [_The Ghost Map_](https://en.wikipedia.org/wiki/The_Ghost_Map) London: Penguin
-O'Sullivan, D. and Unwin, D.J. (2003) _Geographical Information Analysis_ London: Wiley
+- Johnson, S. (2006) [_The Ghost Map_](https://en.wikipedia.org/wiki/The_Ghost_Map) London: Penguin
+- O'Sullivan, D. and Unwin, D.J. (2003) _Geographical Information Analysis_ London: Wiley
