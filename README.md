@@ -1,5 +1,5 @@
 # john-snow
-Spatial analysis playground using data related to the [1854 cholera outbreak in Soho](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak).
+Spatial analysis playground using data related to the [1854 cholera outbreak in Soho](https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak) and Dr John Snow's ['cholera map that changed the world'](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map). 
 
 ## data
 Data are from several sources:
